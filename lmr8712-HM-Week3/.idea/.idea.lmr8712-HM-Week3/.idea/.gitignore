@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.lmr8712-HM-Week3.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\laura\Documents\NYU Game Center\Spring 2021\CodeLab\Homework\lmr8712-HM-Week3\.idea\.idea.lmr8712-HM-Week3\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
